@@ -8,8 +8,7 @@ This repo is a working prototype. It shows Office Hours running alongside a real
 
 **[Try the live demo →](https://office-hours-site.vercel.app/)**
 
-<!-- Add a screenshot or GIF here: drag an image into a GitHub issue or edit window to get a link, then paste it below -->
-<!-- ![Office Hours in action](docs/screenshot.png) -->
+<img width="1512" height="827" alt="office hours" src="https://github.com/user-attachments/assets/460b5207-d739-43fc-b72a-92f27e520e44" />
 
 ---
 
