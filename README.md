@@ -6,7 +6,7 @@ Office Hours is a sidebar that sits next to the page you're reading. Highlight a
 
 This repo is a working prototype. It shows Office Hours running alongside a real article, IBM Think's ["What is blockchain?"](https://www.ibm.com/think/topics/blockchain).
 
-**[Try the live demo →](https://YOUR-PROJECT.vercel.app)**
+**[Try the live demo →]([https://YOUR-PROJECT.vercel.app](https://office-hours-site.vercel.app/))**
 
 <!-- Add a screenshot or GIF here: drag an image into a GitHub issue or edit window to get a link, then paste it below -->
 <!-- ![Office Hours in action](docs/screenshot.png) -->
